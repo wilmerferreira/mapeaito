@@ -1,0 +1,17 @@
+{
+  "name": "Barinas",
+  "cities": [
+    { "name": "Barinas", "parishes": ["Barinas", "Alto Barinas", "Corazón de Jesús", "El Carmen", "Rómulo Betancourt", "Ramón Ignacio Méndez", "Alto Barinas", "Manuel Palacio Fajardo", "Juan Antonio Rodríguez Domínguez"] },
+    { "name": "Sabaneta", "parishes": ["Sabaneta", "Juan Antonio Rodríguez Domínguez"] },
+    { "name": "Socopó", "parishes": ["Socopó", "Ticoporo", "Nicolás Pulido"] },
+    { "name": "Santa Bárbara", "parishes": ["Santa Bárbara", "Andrés Bello", "José Ignacio del Pumar"] },
+    { "name": "Barrancas", "parishes": ["Barrancas", "El Socorro", "Mazparrito"] },
+    { "name": "Ciudad Bolivia", "parishes": ["Ciudad Bolivia", "José Ignacio Briceño", "José Félix Ribas", "Páez"] },
+    { "name": "Libertad", "parishes": ["Libertad", "Dolores", "Santa Rosa"] },
+    { "name": "Obispos", "parishes": ["Obispos", "El Real", "La Luz", "Los Guasimitos"] },
+    { "name": "Arismendi", "parishes": ["Arismendi", "Guadarrama", "La Unión", "San Antonio"] },
+    { "name": "Ciudad de Nutrias", "parishes": ["Ciudad de Nutrias", "El Regalo", "Puerto de Nutrias", "Santa Catalina"] },
+    { "name": "Rojas", "parishes": ["Libertad", "Dolores", "Santa Rosa"] },
+    { "name": "Quebrada Seca", "parishes": ["Quebrada Seca"] }
+  ]
+}

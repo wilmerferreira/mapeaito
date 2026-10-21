@@ -1,0 +1,20 @@
+{
+  "name": "Guárico",
+  "cities": [
+    { "name": "San Juan de los Morros", "parishes": ["San Juan de los Morros", "Parapara", "Cantagallo"] },
+    { "name": "Calabozo", "parishes": ["Calabozo", "El Calvario", "El Rastro", "Guárico"] },
+    { "name": "Valle de la Pascua", "parishes": ["Valle de la Pascua", "Espino"] },
+    { "name": "Zaraza", "parishes": ["Zaraza", "San José de Unare"] },
+    { "name": "Altagracia de Orituco", "parishes": ["Altagracia de Orituco", "Lezama", "Libertad de Orituco", "Paso Real de Macaira", "San Francisco de Macaira", "San Rafael de Orituco", "Soublette"] },
+    { "name": "Tucupido", "parishes": ["Tucupido", "San Rafael de Laya"] },
+    { "name": "El Socorro", "parishes": ["El Socorro"] },
+    { "name": "Camaguán", "parishes": ["Camaguán", "Puerto Miranda", "Uverito"] },
+    { "name": "Ortiz", "parishes": ["Ortiz", "San Francisco de Tiznados", "San José de Tiznados", "San Lorenzo de Tiznados"] },
+    { "name": "Chaguaramas", "parishes": ["Chaguaramas"] },
+    { "name": "Las Mercedes", "parishes": ["Las Mercedes", "Cabruta", "Santa Rita de Manapire"] },
+    { "name": "Santa María de Ipire", "parishes": ["Santa María de Ipire", "Altamira"] },
+    { "name": "El Sombrero", "parishes": ["El Sombrero", "Sosa"] },
+    { "name": "San José de Guaribe", "parishes": ["San José de Guaribe"] },
+    { "name": "Cazorla", "parishes": ["Cazorla"] }
+  ]
+}

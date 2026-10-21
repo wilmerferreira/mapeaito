@@ -1,0 +1,20 @@
+{
+  "name": "Sucre",
+  "cities": [
+    { "name": "Cumaná", "parishes": ["Santa Inés", "Altagracia", "Ayacucho", "San Juan", "Gran Mariscal", "Raúl Leoni", "Valentín Valiente"] },
+    { "name": "Carúpano", "parishes": ["Santa Catalina", "Santa Rosa", "Santa Teresa", "Bolívar", "Macarapana"] },
+    { "name": "Güiria", "parishes": ["Güiria", "Bideau", "Cristóbal Colón", "Punta de Piedra"] },
+    { "name": "Cariaco", "parishes": ["Cariaco", "Catuaro", "Rendón", "Santa Cruz", "Santa María"] },
+    { "name": "Río Caribe", "parishes": ["Río Caribe", "Antonio José de Sucre", "El Morro de Puerto Santo", "Puerto Santo", "San Juan de las Galdonas"] },
+    { "name": "Casanay", "parishes": ["Casanay", "El Paujil", "El Rincón", "Guaraúnos", "Tunapuy", "Unión"] },
+    { "name": "Araya", "parishes": ["Araya", "Chacopata", "Manicuare"] },
+    { "name": "Marigüitar", "parishes": ["Marigüitar"] },
+    { "name": "Cumanacoa", "parishes": ["Cumanacoa", "Arenas", "Cocollar", "San Fernando", "San Lorenzo"] },
+    { "name": "Tunapuy", "parishes": ["Tunapuy", "Campo Elías"] },
+    { "name": "Yaguaraparo", "parishes": ["Yaguaraparo", "El Paujil", "Libertad"] },
+    { "name": "El Pilar", "parishes": ["El Pilar", "El Rincón", "General Francisco Antonio Vásquez", "Guaraúnos", "Tunapuy", "Unión"] },
+    { "name": "San Antonio del Golfo", "parishes": ["San Antonio del Golfo"] },
+    { "name": "Irapa", "parishes": ["Irapa", "Campo Claro", "Marabal", "San Antonio de Irapa", "Soro"] },
+    { "name": "Cumaná", "parishes": ["Cumaná"] }
+  ]
+}

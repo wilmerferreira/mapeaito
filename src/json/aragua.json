@@ -1,0 +1,23 @@
+{
+  "name": "Aragua",
+  "cities": [
+    { "name": "Maracay", "parishes": ["Andrés Eloy Blanco", "Joaquín Crespo", "José Casanova Godoy", "Madre María de San José", "Pedro José Ovalles", "Choroní", "Las Delicias", "Los Tacarigua"] },
+    { "name": "Turmero", "parishes": ["Turmero", "Arevalo Aponte", "Chuao", "Samán de Güere", "Alfredo Pacheco Miranda"] },
+    { "name": "Cagua", "parishes": ["Cagua", "Bella Vista"] },
+    { "name": "Santa Cruz", "parishes": ["Santa Cruz"] },
+    { "name": "La Victoria", "parishes": ["Castor Nieves Ríos", "Las Guacamayas", "Pao de Zárate", "Zuata"] },
+    { "name": "El Consejo", "parishes": ["El Consejo"] },
+    { "name": "Palo Negro", "parishes": ["San Martín de Porres", "Parroquia Urbana Palo Negro"] },
+    { "name": "Villa de Cura", "parishes": ["Villa de Cura", "Magdaleno", "San Francisco de Asís", "Valles de Tucutunemo", "Augusto Mijares"] },
+    { "name": "San Sebastián", "parishes": ["San Sebastián"] },
+    { "name": "Barbacoas", "parishes": ["Barbacoas", "Taguay"] },
+    { "name": "San Casimiro", "parishes": ["San Casimiro", "Güiripa", "Ollas de Caramacate", "Valle Morín"] },
+    { "name": "Las Tejerías", "parishes": ["Las Tejerías"] },
+    { "name": "Colonia Tovar", "parishes": ["Colonia Tovar"] },
+    { "name": "Ocumare de la Costa", "parishes": ["Ocumare de la Costa"] },
+    { "name": "San Mateo", "parishes": ["San Mateo"] },
+    { "name": "El Limón", "parishes": ["El Limón", "Caña de Azúcar"] },
+    { "name": "Pío Tamayo", "parishes": ["Pío Tamayo"] },
+    { "name": "Camatagua", "parishes": ["Camatagua", "Carmen de Cura"] }
+  ]
+}

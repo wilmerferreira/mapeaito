@@ -1,0 +1,6 @@
+{
+  "name": "La Guaira",
+  "cities": [
+    { "name": "La Guaira", "parishes": ["Caraballeda", "Carayaca", "Carlos Soublette", "Caruao", "Catia La Mar", "El Junko", "La Guaira", "Macuto", "Maiquetía", "Naiguatá", "Urimare"] }
+  ]
+}

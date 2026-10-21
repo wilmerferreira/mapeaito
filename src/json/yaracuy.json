@@ -1,0 +1,19 @@
+{
+  "name": "Yaracuy",
+  "cities": [
+    { "name": "San Felipe", "parishes": ["San Felipe", "Albarico", "San Javier"] },
+    { "name": "Yaritagua", "parishes": ["Yaritagua", "San Andrés"] },
+    { "name": "Chivacoa", "parishes": ["Chivacoa", "Campo Elías"] },
+    { "name": "Nirgua", "parishes": ["Nirgua", "Salóm", "Temerla"] },
+    { "name": "Cocorote", "parishes": ["Cocorote"] },
+    { "name": "Guama", "parishes": ["Sucre"] },
+    { "name": "Urachiche", "parishes": ["Urachiche", "El Tigre"] },
+    { "name": "Boraure", "parishes": ["Boraure"] },
+    { "name": "Aroa", "parishes": ["Aroa"] },
+    { "name": "Sabana de Parra", "parishes": ["Sabana de Parra"] },
+    { "name": "San Pablo", "parishes": ["San Pablo"] },
+    { "name": "Farriar", "parishes": ["Farriar", "Albarico"] },
+    { "name": "Arístides Bastidas", "parishes": ["San Pablo"] },
+    { "name": "La Trinidad", "parishes": ["Boraure"] }
+  ]
+}

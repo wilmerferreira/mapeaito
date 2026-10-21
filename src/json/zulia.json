@@ -1,0 +1,26 @@
+{
+  "name": "Zulia",
+  "cities": [
+    { "name": "Maracaibo", "parishes": ["Bolívar", "Cacique Mara", "Caracciolo Parra Pérez", "Cecilio Acosta", "Chiquinquirá", "Coquivacoa", "Cristo de Aranza", "Francisco Eugenio Bustamante", "Idelfonso Vásquez", "Juana de Ávila", "Luis Hurtado Higuera", "Manuel Dagnino", "Olegario Villalobos", "Raúl Leoni", "Santa Lucía", "Venancio Pulgar", "Antonio Borjas Romero", "San Isidro"] },
+    { "name": "Cabimas", "parishes": ["Ambrosio", "Carmen Herrera", "La Rosa", "Germán Ríos Linares", "San Benito", "Rómulo Betancourt", "Jorge Hernández", "Punta Gorda", "Arístides Calvani"] },
+    { "name": "Ciudad Ojeda", "parishes": ["Alonso de Ojeda", "Libertad", "Eleazar López Contreras", "Campo Lara", "Venezuela"] },
+    { "name": "Machiques", "parishes": ["Libertad", "Bartolomé de las Casas", "Río Negro", "San José de Perijá"] },
+    { "name": "Villa del Rosario", "parishes": ["Donaldo García", "El Rosario", "Sixto Zambrano"] },
+    { "name": "Santa Bárbara del Zulia", "parishes": ["Santa Bárbara", "San Carlos del Zulia", "Moralito", "Santa Cruz del Zulia"] },
+    { "name": "San Carlos del Zulia", "parishes": ["San Carlos del Zulia", "Moralito", "Santa Cruz del Zulia", "Santa Bárbara"] },
+    { "name": "Encontrados", "parishes": ["Encontrados", "Udón Pérez"] },
+    { "name": "La Concepción", "parishes": ["La Concepción", "San José", "Mariano Parra León", "José Ramón Yépez"] },
+    { "name": "Los Puertos de Altagracia", "parishes": ["Altagracia", "Faría", "Ana María Campos", "San Antonio"] },
+    { "name": "Sinamaica", "parishes": ["Sinamaica", "Alta Guajira", "Elías Sánchez Rubio", "Guajira"] },
+    { "name": "Paraguaipoa", "parishes": ["Guajira"] },
+    { "name": "Bachaquero", "parishes": ["Bachaquero", "Andrés Bello", "Rafael Urdaneta"] },
+    { "name": "Mene Grande", "parishes": ["Libertador", "Campo Lara", "Eleazar López Contreras", "Venezuela"] },
+    { "name": "Santa Rita", "parishes": ["Santa Rita", "El Mene", "Pedro Lucas Urribarrí", "José Cenobio Urribarrí"] },
+    { "name": "San Rafael del Moján", "parishes": ["San Rafael", "Ricaurte", "Tamare", "La Sierrita", "Las Parcelas", "Luis de Vicente", "Monseñor Marcos Sergio Godoy"] },
+    { "name": "Pueblo Nuevo", "parishes": ["Pueblo Nuevo", "El Carmelo", "Rómulo Gallegos", "Bobures", "Gibraltar", "Heras"] },
+    { "name": "El Toro", "parishes": ["El Toro", "San Timoteo", "General Urdaneta", "Manuel Guanipa Matos", "Marcelino Briceño", "Pueblo Nuevo"] },
+    { "name": "La Villa del Rosario", "parishes": ["El Rosario", "Donaldo García", "Sixto Zambrano"] },
+    { "name": "San Francisco", "parishes": ["San Francisco", "El Bajo", "Domitila Flores", "Francisco Ochoa", "Los Cortijos", "Marcial Hernández"] },
+    { "name": "El Guayabo", "parishes": ["El Guayabo", "Encontrados"] }
+  ]
+}

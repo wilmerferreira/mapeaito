@@ -1,0 +1,16 @@
+{
+  "name": "Nueva Esparta",
+  "cities": [
+    { "name": "La Asunción", "parishes": ["Asunción"] },
+    { "name": "Porlamar", "parishes": ["Porlamar"] },
+    { "name": "Pampatar", "parishes": ["Pampatar", "Aguirre"] },
+    { "name": "Juan Griego", "parishes": ["Adrián", "Juan Griego", "Yaguaraparo"] },
+    { "name": "San Juan Bautista", "parishes": ["San Juan", "Zabala"] },
+    { "name": "Punta de Piedras", "parishes": ["Península de Macanao", "San Francisco"] },
+    { "name": "El Valle del Espíritu Santo", "parishes": ["García", "Francisco Fajardo"] },
+    { "name": "Boca de Río", "parishes": ["Boca de Río", "San Francisco"] },
+    { "name": "Santa Ana", "parishes": ["Santa Ana"] },
+    { "name": "Tacarma", "parishes": ["Bolívar"] },
+    { "name": "Villa Rosa", "parishes": ["García"] }
+  ]
+}

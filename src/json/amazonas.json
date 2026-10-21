@@ -1,0 +1,12 @@
+{
+  "name": "Amazonas",
+  "cities": [
+    { "name": "Puerto Ayacucho", "parishes": ["Fernando Girón Tovar", "Luis Alberto Gómez", "Parhueña", "Platanillal"] },
+    { "name": "La Esmeralda", "parishes": ["La Esmeralda", "Huachamacare", "Marawaka", "Mavaca", "Sierra Parima"] },
+    { "name": "San Fernando de Atabapo", "parishes": ["San Fernando de Atabapo", "Ucata", "Yapacana", "Caname"] },
+    { "name": "Isla Ratón", "parishes": ["Samariapo", "Sipapo", "Munduapo", "Guayapo"] },
+    { "name": "San Juan de Manapiare", "parishes": ["San Juan de Manapiare", "Alto Ventuari", "Medio Ventuari", "Bajo Ventuari"] },
+    { "name": "Maroa", "parishes": ["Maroa", "Victorino"] },
+    { "name": "San Carlos de Río Negro", "parishes": ["San Carlos de Río Negro", "Solano"] }
+  ]
+}

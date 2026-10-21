@@ -4,6 +4,13 @@
 
 Este es un repositorio de datos abiertos que contendrá la división geopolítica y administrativa de Venezuela (Niveles ADM0 a ADM3: País, Estados, Municipios y Parroquias), optimizado con datos geoespaciales para que cualquier desarrollador o analista pueda usarlos sin "dar tantas vueltas".
 
+Niveles:
+
+- ADM0: País
+- ADM1: Estado
+- ADM2: Municípios
+- ADM3: Parroquias
+
 ## 🎯 La Intención
 
 En Venezuela, conseguir data geográfica actualizada, estandarizada y en formatos modernos (como [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) o JSON) suele ser un reto. La información está dispersa o en formatos cerrados que dificultan la creación de apps, mapas de calor o análisis estadísticos.

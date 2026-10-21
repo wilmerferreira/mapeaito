@@ -1,0 +1,14 @@
+{
+  "name": "Cojedes",
+  "cities": [
+    { "name": "San Carlos", "parishes": ["San Carlos de Austria", "Juan Ángel Bravo", "Manuel Manrique"] },
+    { "name": "Tinaquillo", "parishes": ["Tinaquillo"] },
+    { "name": "El Baúl", "parishes": ["El Baúl", "Sucre"] },
+    { "name": "Las Vegas", "parishes": ["El Pao"] },
+    { "name": "El Pao", "parishes": ["El Pao"] },
+    { "name": "Libertad", "parishes": ["Libertad de Cojedes"] },
+    { "name": "Tinaco", "parishes": ["José Laurencio Silva"] },
+    { "name": "Macapo", "parishes": ["Macapo", "La Aguadita"] },
+    { "name": "Apartadero", "parishes": ["Cojedes", "Juan de Mata Suárez"] }
+  ]
+}

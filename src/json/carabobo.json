@@ -1,0 +1,19 @@
+{
+  "name": "Carabobo",
+  "cities": [
+    { "name": "Valencia", "parishes": ["Catedral", "Candelaria", "El Socorro", "Miguel Peña", "Rafael Urdaneta", "San Blas", "San José", "Santa Rosa", "Negro Primero"] },
+    { "name": "Puerto Cabello", "parishes": ["Bartolomé Salom", "Democracia", "Fraternidad", "Goaigoaza", "Juan José Flores", "Unión", "Borburata", "Patanemo"] },
+    { "name": "Guacara", "parishes": ["Guacara", "Ciudad Alianza", "Yagua"] },
+    { "name": "Mariara", "parishes": ["Mariara", "Aguas Calientes"] },
+    { "name": "San Joaquín", "parishes": ["San Joaquín"] },
+    { "name": "Güigüe", "parishes": ["Güigüe", "Carabobo", "Tacarigua"] },
+    { "name": "Montalbán", "parishes": ["Montalbán"] },
+    { "name": "Bejuma", "parishes": ["Bejuma", "Canoabo", "Simón Bolívar"] },
+    { "name": "Miranda", "parishes": ["Miranda"] },
+    { "name": "Tocuyito", "parishes": ["Tocuyito", "Independencia"] },
+    { "name": "Los Guayos", "parishes": ["Los Guayos"] },
+    { "name": "Naguanagua", "parishes": ["Naguanagua"] },
+    { "name": "San Diego", "parishes": ["San Diego"] },
+    { "name": "Morón", "parishes": ["Morón", "Urama"] }
+  ]
+}

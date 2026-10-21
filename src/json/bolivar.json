@@ -1,0 +1,16 @@
+{
+  "name": "Bolívar",
+  "cities": [
+    { "name": "Ciudad Bolívar", "parishes": ["Catedral", "Agua Salada", "La Sabanita", "Vista Hermosa", "José Antonio Páez", "Orinoco", "Panapana", "Zea"] },
+    { "name": "Ciudad Guayana", "parishes": ["Cachamay", "Chirica", "Dalla Costa", "Once de Abril", "Simón Bolívar", "Unare", "Universidad", "Vista al Sol", "Pozo Verde", "Yocoima", "5 de Julio"] },
+    { "name": "Caicara del Orinoco", "parishes": ["Cedeño", "Altagracia", "Ascensión Farreras", "Guaniamo", "La Urbana", "Pijiguaos"] },
+    { "name": "Upata", "parishes": ["Upata", "Andrés Eloy Blanco", "Pedro Cova"] },
+    { "name": "Guasipati", "parishes": ["Guasipati", "Salom"] },
+    { "name": "El Callao", "parishes": ["El Callao"] },
+    { "name": "Tumeremo", "parishes": ["Tumeremo", "Dalla Costa", "San Isidro"] },
+    { "name": "Ciudad Piar", "parishes": ["Ciudad Piar", "Andrés Eloy Blanco", "Pedro Cova"] },
+    { "name": "Santa Elena de Uairén", "parishes": ["Santa Elena de Uairén", "Ikabarú"] },
+    { "name": "Maripa", "parishes": ["Maripa", "Aripao", "Guarataro", "Las Majadas", "Moitaco"] },
+    { "name": "El Palmar", "parishes": ["El Palmar"] }
+  ]
+}

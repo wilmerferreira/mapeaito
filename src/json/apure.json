@@ -1,0 +1,12 @@
+{
+  "name": "Apure",
+  "cities": [
+    { "name": "San Fernando de Apure", "parishes": ["San Fernando", "El Recreo", "Peñalver", "San Rafael de Atamaica"] },
+    { "name": "Achaguas", "parishes": ["Achaguas", "Apurito", "El Yagual", "Guachara", "Mucuritas", "Queseras del Medio"] },
+    { "name": "Biruaca", "parishes": ["Biruaca"] },
+    { "name": "Bruzual", "parishes": ["Bruzual", "Mantecal", "Quintero", "Rincón Hondo", "San Vicente"] },
+    { "name": "Guasdualito", "parishes": ["Guasdualito", "Aramendi", "El Amparo", "San Camilo", "Urdaneta"] },
+    { "name": "Elorza", "parishes": ["Elorza", "La Trinidad"] },
+    { "name": "San Juan de Payara", "parishes": ["San Juan de Payara", "Codazzi", "Cunaviche"] }
+  ]
+}

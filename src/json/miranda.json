@@ -1,0 +1,26 @@
+{
+  "name": "Miranda",
+  "cities": [
+    { "name": "Los Teques", "parishes": ["Los Teques", "Altagracia de la Montaña", "Cecilio Acosta", "El Jarillo", "Paracotos", "San Pedro", "Tácata"] },
+    { "name": "Guarenas", "parishes": ["Guarenas"] },
+    { "name": "Guatire", "parishes": ["Guatire", "Bolívar"] },
+    { "name": "Petare", "parishes": ["Petare", "Caucagüita", "Filar de Mariches", "La Dolorita", "Leoncio Martínez"] },
+    { "name": "Baruta", "parishes": ["Baruta", "El Cafetal", "Las Minas"] },
+    { "name": "Chacao", "parishes": ["Chacao"] },
+    { "name": "Santa Teresa del Tuy", "parishes": ["Santa Teresa del Tuy"] },
+    { "name": "Ocumare del Tuy", "parishes": ["Ocumare del Tuy", "La Democracia", "Santa Bárbara"] },
+    { "name": "Cúa", "parishes": ["Cúa", "Nueva Cúa"] },
+    { "name": "Charallave", "parishes": ["Charallave", "Las Brisas"] },
+    { "name": "San Francisco de Yare", "parishes": ["San Francisco de Yare", "San Antonio de Yare"] },
+    { "name": "Higuerote", "parishes": ["Higuerote", "Curiepe", "Tacarigua de Brión"] },
+    { "name": "Río Chico", "parishes": ["Río Chico", "El Guapo", "Tacarigua de la Laguna", "Paparo", "San Fernando del Guapo"] },
+    { "name": "San José de Barlovento", "parishes": ["San José de Barlovento"] },
+    { "name": "Cúpira", "parishes": ["Cúpira", "Machurucuto"] },
+    { "name": "Mamporal", "parishes": ["Mamporal"] },
+    { "name": "Carrizal", "parishes": ["Carrizal"] },
+    { "name": "San Antonio de los Altos", "parishes": ["San Antonio de los Altos"] },
+    { "name": "Santa Lucía", "parishes": ["Santa Lucía"] },
+    { "name": "Nuestra Señora del Rosario de Baruta", "parishes": ["Baruta", "El Cafetal", "Las Minas"] },
+    { "name": "El Hatillo", "parishes": ["El Hatillo"] }
+  ]
+}

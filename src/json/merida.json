@@ -1,0 +1,28 @@
+{
+  "name": "Mérida",
+  "cities": [
+    { "name": "Mérida", "parishes": ["Antonio Spinetti Dini", "Arias", "Caracciolo Parra Pérez", "Domingo Peña", "El Llano", "Gonzalo Picón Febres", "Jacinto Plaza", "Juan Rodríguez Suárez", "Lasso de la Vega", "Los Nevados", "Mariano Picón Salas", "Milla", "Osuna Rodríguez", "Sagrario", "El Morro"] },
+    { "name": "Ejido", "parishes": ["Matriz", "Montalbán", "Fernández Peña", "Acequias", "Jají", "La Mesa", "San José"] },
+    { "name": "Tovar", "parishes": ["El Llano", "San Francisco", "El Amparo", "Tovar"] },
+    { "name": "Lagunillas", "parishes": ["Lagunillas", "Chiguará", "Estánquez", "La Trampa", "Pueblo Nuevo del Sur", "San Juan", "Andrés Eloy Blanco"] },
+    { "name": "Nueva Bolivia", "parishes": ["Nueva Bolivia", "Santa Apolonia"] },
+    { "name": "Tucaní", "parishes": ["Tucaní", "Florencio Ramírez"] },
+    { "name": "Santa Elena de Arenales", "parishes": ["Santa Elena de Arenales", "Eloy Paredes", "San Rafael de Alcázar"] },
+    { "name": "Santo Domingo", "parishes": ["Santo Domingo", "Las Piedras"] },
+    { "name": "Timotes", "parishes": ["Timotes", "Andrés Eloy Blanco", "La Venta", "Piñango"] },
+    { "name": "Mucuchíes", "parishes": ["Mucuchíes", "Cacute", "La Toma", "Mucurubá", "San Rafael"] },
+    { "name": "Arapuey", "parishes": ["Arapuey", "Palmira"] },
+    { "name": "Canaguá", "parishes": ["Canaguá", "Capurí", "Chacantá", "El Molino", "Guaimaral", "Mucutuy", "Mucuchachí"] },
+    { "name": "Guaraque", "parishes": ["Guaraque", "Mesa de Quintero", "Río Negro"] },
+    { "name": "Bailadores", "parishes": ["Bailadores", "Gerónimo Maldonado"] },
+    { "name": "Zea", "parishes": ["Zea", "Caño El Tigre"] },
+    { "name": "El Vigía", "parishes": ["Rómulo Gallegos", "Presidente Betancourt", "Presidente Páez", "Gabriel Picón González", "Héctor Amable Mora", "José Nucete Sardi", "Pulido Méndez"] },
+    { "name": "Santa Cruz de Mora", "parishes": ["Santa Cruz de Mora", "Mesa Bolívar", "Mesa de Las Palmas"] },
+    { "name": "Torondoy", "parishes": ["Torondoy", "San Cristóbal de Torondoy"] },
+    { "name": "La Azulita", "parishes": ["La Azulita"] },
+    { "name": "Arapuey", "parishes": ["Arapuey", "Palmira"] },
+    { "name": "Tabay", "parishes": ["Tabay"] },
+    { "name": "Pueblo Llano", "parishes": ["Pueblo Llano"] },
+    { "name": "Santo Domingo", "parishes": ["Santo Domingo", "Las Piedras"] }
+  ]
+}

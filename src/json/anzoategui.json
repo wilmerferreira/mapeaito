@@ -1,0 +1,26 @@
+{
+  "name": "Anzoátegui",
+  "cities": [
+    { "name": "Barcelona", "parishes": ["El Carmen", "San Cristóbal", "Bergantín", "Caigua", "El Pilar", "Naricual"] },
+    { "name": "Puerto La Cruz", "parishes": ["Puerto La Cruz", "Pozuelos"] },
+    { "name": "Lechería", "parishes": ["Lechería", "El Morro"] },
+    { "name": "Guanta", "parishes": ["Guanta", "Chorrerón"] },
+    { "name": "Anaco", "parishes": ["Anaco", "San Joaquín"] },
+    { "name": "Aragua de Barcelona", "parishes": ["Aragua de Barcelona", "Cachipo"] },
+    { "name": "Clarines", "parishes": ["Clarines", "Guanape", "Sabana de Uchire"] },
+    { "name": "Cantaura", "parishes": ["Cantaura", "Libertador", "Santa Rosa", "Urica"] },
+    { "name": "San Mateo", "parishes": ["San Mateo"] },
+    { "name": "El Tigre", "parishes": ["Edmundo Barrios", "Miguel Otero Silva"] },
+    { "name": "Pariaguán", "parishes": ["Pariaguán", "Atapirire", "Boca del Pao", "El Pao"] },
+    { "name": "Píritu", "parishes": ["Píritu", "San Francisco"] },
+    { "name": "Puerto Píritu", "parishes": ["Puerto Píritu", "Onoto", "San Pablo"] },
+    { "name": "Valle de Guanape", "parishes": ["Valle de Guanape", "Santa Bárbara"] },
+    { "name": "Mapire", "parishes": ["Mapire", "Piar", "Santa Clara", "San Diego de Cabrutica", "Uverito", "Zuata"] },
+    { "name": "Boca de Uchire", "parishes": ["Boca de Uchire", "Boca de Chávez"] },
+    { "name": "Soledad", "parishes": ["Soledad"] },
+    { "name": "San José de Guanipa", "parishes": ["San José de Guanipa"] },
+    { "name": "Santa Ana", "parishes": ["Santa Ana", "Pueblo Nuevo"] },
+    { "name": "El Chaparro", "parishes": ["El Chaparro"] },
+    { "name": "Mamo", "parishes": ["Mamo"] }
+  ]
+}

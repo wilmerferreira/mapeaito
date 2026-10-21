@@ -1,0 +1,14 @@
+{
+  "name": "Lara",
+  "cities": [
+    { "name": "Barquisimeto", "parishes": ["Catedral", "Concepción", "El Cují", "Juan de Villegas", "Santa Rosa", "Tamaca", "Unión", "Aguedo Felipe Alvarado", "Buena Vista", "Juárez"] },
+    { "name": "Carora", "parishes": ["Trinidad Samuel", "Antonio Díaz", "Camacaro", "Castañeda", "Cecilio Zubillaga", "Chiquinquirá", "El Blanco", "Espinoza de los Monteros", "Heriberto Arroyo", "Lara", "Las Mercedes", "Manuel Morillo", "Montaña Verde", "Montes de Oca", "Reyes Vargas", "Torres"] },
+    { "name": "Quíbor", "parishes": ["Juan Bautista Rodríguez", "Cuara", "Diego de Lozada", "Paraíso de San José", "San Miguel", "Tintorero"] },
+    { "name": "El Tocuyo", "parishes": ["Bolívar", "Anzoátegui", "Guarico", "Humocaro Alto", "Humocaro Bajo", "La Candelaria", "Morán"] },
+    { "name": "Sarare", "parishes": ["Sarare", "Buría", "Gustavo Vegas León"] },
+    { "name": "Cabudare", "parishes": ["Cabudare", "José Gregorio Bastidas", "Agua Viva"] },
+    { "name": "Duaca", "parishes": ["Freitez"] },
+    { "name": "Sanare", "parishes": ["Pío Tamayo", "Yacambú", "Quebrada Honda de Guache"] },
+    { "name": "Siquisique", "parishes": ["Siquisique", "San Miguel", "Xaguas", "Moroturo"] }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Delta Amacuro",
+  "cities": [
+    { "name": "Tucupita", "parishes": ["San José", "Juan Millán", "Leonardo Ruíz Pineda", "Mariscal Antonio José de Sucre", "Monseñor Argimiro García", "Virgen del Valle", "San Rafael", "José Vidal Marcano"] },
+    { "name": "Pedernales", "parishes": ["Pedernales", "Luis Beltrán Prieto Figueroa"] },
+    { "name": "Curiapo", "parishes": ["Curiapo", "Almirante Luis Brión", "Francisco Aniceto Lugo", "Manuel Renaud", "Padre Barral", "Santos de Abelgas"] },
+    { "name": "Sierra Imataca", "parishes": ["Imataca", "Cinco de Julio", "Juan Bautista Arismendi", "Manuel Piar", "Rómulo Gallegos"] }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Falcón",
+  "cities": [
+    { "name": "Coro", "parishes": ["San Antonio", "Santa Ana", "San Gabriel", "Guzmán Guillermo", "Mitare", "Río Seco", "Sabaneta"] },
+    { "name": "Punto Fijo", "parishes": ["Carirubana", "Norte", "Punta Cardón", "Santa Ana"] },
+    { "name": "La Vela de Coro", "parishes": ["La Vela", "Acurigua", "Guaibacoa", "Las Calderas", "Macoruca"] },
+    { "name": "Dabajuro", "parishes": ["Dabajuro"] },
+    { "name": "Capadare", "parishes": ["Capadare", "La Pastora", "Libertador", "San Juan de los Cayos"] },
+    { "name": "Churuguara", "parishes": ["Churuguara", "Agua Larga", "El Paují", "Independencia", "Mapararí"] },
+    { "name": "Píritu", "parishes": ["Píritu", "San Francisco"] },
+    { "name": "Mirimire", "parishes": ["Mirimire"] },
+    { "name": "Santa Cruz de Bucaral", "parishes": ["Bruzual", "Urumaco"] },
+    { "name": "Cabure", "parishes": ["Cabure", "Curimagua", "Colina"] },
+    { "name": "San Luis", "parishes": ["San Luis", "Aracua", "La Peña"] },
+    { "name": "Chichiriviche", "parishes": ["Boca de Tocuyo", "Chichiriviche", "Tocuyo de la Costa"] },
+    { "name": "Tucacas", "parishes": ["Tucacas", "Boca de Aroa"] },
+    { "name": "Yaracal", "parishes": ["Yaracal"] },
+    { "name": "Jacura", "parishes": ["Jacura", "Agua Linda", "Araurima"] },
+    { "name": "Tocopero", "parishes": ["Tocópero"] },
+    { "name": "Santa Cruz de Los Taques", "parishes": ["Los Taques", "Judibana"] },
+    { "name": "Mene de Mauroa", "parishes": ["Mauroa", "Casigua", "San Félix"] },
+    { "name": "San Juan de los Cayos", "parishes": ["San Juan de los Cayos", "Capadare", "La Pastora", "Libertador"] },
+    { "name": "Churuguara", "parishes": ["Churuguara", "Agua Larga", "El Paují", "Independencia", "Mapararí"] },
+    { "name": "Pedregal", "parishes": ["Pedregal", "Agua Clara", "Avaria", "Piedra Grande"] },
+    { "name": "Pueblo Nuevo", "parishes": ["Pueblo Nuevo", "Adícora", "Baraived", "Buena Vista", "Jadacaquiva", "Moruy"] },
+    { "name": "La Cruz de Taratara", "parishes": ["Sucre", "Pecaya"] },
+    { "name": "Boca de Aroa", "parishes": ["Boca de Aroa", "Tucacas"] },
+    { "name": "Maparari", "parishes": ["Mapararí"] }
+  ]
+}

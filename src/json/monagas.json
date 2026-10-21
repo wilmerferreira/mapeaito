@@ -1,0 +1,18 @@
+{
+  "name": "Monagas",
+  "cities": [
+    { "name": "Maturín", "parishes": ["Alto de Los Godos", "Boquerón", "Las Cocuizas", "San Simón", "Santa Cruz", "El Corozo", "El Furrial", "Jusepín", "La Pica", "San Vicente"] },
+    { "name": "Caripito", "parishes": ["Caripito"] },
+    { "name": "Caripe", "parishes": ["Caripe", "El Guácharo", "La Guanota", "Sabana de Piedra", "San Agustín", "Teresen"] },
+    { "name": "Punta de Mata", "parishes": ["Punta de Mata", "El Tejero"] },
+    { "name": "Temblador", "parishes": ["Temblador", "Tabasca", "Las Alhuacas", "Chaguaramas"] },
+    { "name": "Aguasay", "parishes": ["Aguasay"] },
+    { "name": "Caicara de Maturín", "parishes": ["Caicara", "Areo", "San Félix de Caicara", "Viento Fresco"] },
+    { "name": "Cedeño", "parishes": ["Caicara", "Areo", "San Félix de Caicara", "Viento Fresco"] },
+    { "name": "Barrancas", "parishes": ["Barrancas", "Los Barrancos de Fajardo"] },
+    { "name": "Aragua de Maturín", "parishes": ["Aragua", "Chaguaramal", "El Pinto", "Guanaguana", "La Toscana", "Taguaya"] },
+    { "name": "Quiriquire", "parishes": ["Quiriquire", "Cachipo", "Punceres"] },
+    { "name": "Santa Bárbara", "parishes": ["Santa Bárbara"] },
+    { "name": "Uracoa", "parishes": ["Uracoa"] }
+  ]
+}

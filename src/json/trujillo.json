@@ -1,0 +1,25 @@
+{
+  "name": "Trujillo",
+  "cities": [
+    { "name": "Trujillo", "parishes": ["Matriz", "Chiquinquirá", "Cristóbal Mendoza", "Cruz Carrillo", "Monseñor Carrillo", "Tres Esquinas"] },
+    { "name": "Valera", "parishes": ["Juan Ignacio Montilla", "La Beatriz", "La Puerta", "Mendoza", "Mercedes Díaz", "San Luis"] },
+    { "name": "Boconó", "parishes": ["Boconó", "El Carmen", "Mosquey", "Ayacucho", "Burbusay", "General Ribas", "Guaramacal", "Vega de Guaramacal", "Monseñor Jáuregui", "Rafael Rangel", "San Miguel"] },
+    { "name": "Carache", "parishes": ["Carache", "La Concepción", "Cuicas", "Panamericana", "Santa Cruz"] },
+    { "name": "Sabana de Mendoza", "parishes": ["Sabana de Mendoza", "Junín", "Valmore Rodríguez", "El Paraíso"] },
+    { "name": "Pampán", "parishes": ["Pampán", "Flor de Patria", "La Paz", "Santa Ana"] },
+    { "name": "Pampanito", "parishes": ["Pampanito", "La Concepción", "Pampanito II"] },
+    { "name": "Betijoque", "parishes": ["Betijoque", "José Gregorio Hernández", "La Pueblita", "Los Cedros"] },
+    { "name": "Escuque", "parishes": ["Escuque", "La Unión", "Santa Rita", "Sabana Libre"] },
+    { "name": "Santa Isabel", "parishes": ["Santa Isabel", "Araguaney", "El Jaguito", "La Esperanza"] },
+    { "name": "La Quebrada", "parishes": ["La Quebrada", "Jajó", "La Mesa", "Santiago", "Tuñame"] },
+    { "name": "Carvajal", "parishes": ["Carvajal", "Campo Alegre", "Antonio Nicolás Briceño", "José Leonardo Suárez"] },
+    { "name": "El Dividive", "parishes": ["El Dividive", "Agua Santa", "Agua Caliente", "El Cenizo", "Valerita"] },
+    { "name": "Santa Apolonia", "parishes": ["Santa Apolonia", "El Progreso", "La Ceiba", "Tres de Febrero"] },
+    { "name": "Monte Carmelo", "parishes": ["Monte Carmelo", "Buena Vista", "Santa María del Horcón"] },
+    { "name": "Andrés Linares", "parishes": ["Andrés Linares"] },
+    { "name": "Junín", "parishes": ["Junín"] },
+    { "name": "Campo Elías", "parishes": ["Campo Elías", "Arnoldo Gabaldón"] },
+    { "name": "La Mesa de Esnujaque", "parishes": ["La Mesa de Esnujaque", "Cabimbú", "Jajó", "La Mesa"] },
+    { "name": "El Paradero", "parishes": ["El Paradero"] }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Portuguesa",
+  "cities": [
+    { "name": "Guanare", "parishes": ["Guanare", "Córdoba", "San José de la Montaña", "San Juan de Guanaguanare", "Virgen de la Coromoto"] },
+    { "name": "Acarigua", "parishes": ["Acarigua", "Payara", "Pimpinela", "Ramón Peraza"] },
+    { "name": "Araure", "parishes": ["Araure", "Río Acarigua"] },
+    { "name": "Boconoíto", "parishes": ["Boconoíto", "Antolín Tovar"] },
+    { "name": "Guanarito", "parishes": ["Guanarito", "Trinidad de la Capilla", "Divina Pastora"] },
+    { "name": "Papelón", "parishes": ["Papelón", "Caño Delgadito"] },
+    { "name": "Ospino", "parishes": ["Ospino", "Aparición", "La Estación"] },
+    { "name": "Píritu", "parishes": ["Píritu", "Uveral"] },
+    { "name": "Turén", "parishes": ["Villa Bruzual", "Canelones", "Santa Cruz", "San Isidro Labrador"] },
+    { "name": "San Rafael de Onoto", "parishes": ["San Rafael de Onoto", "Santa Fe", "Thermo"] },
+    { "name": "El Playón", "parishes": ["El Playón", "Florida"] },
+    { "name": "Agua Blanca", "parishes": ["Agua Blanca"] },
+    { "name": "Chabasquén", "parishes": ["Monseñor José Vicente de Unda"] },
+    { "name": "Biscucuy", "parishes": ["Biscucuy", "Concepción", "San Rafael de Palo Alzado", "Uvencio Antonio Velásquez", "San José de Saguaz", "Villa Rosa"] }
+  ]
+}
